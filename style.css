@@ -1,0 +1,54 @@
+body {
+  background: url(./images/green_background.png);
+  background-repeat: repeat;
+  color: #000000;
+  font-family: 'Lora', serif;
+  font-size: 80px;
+  font-weight: 800;
+}
+h1, h2, h3 {
+  background-repeat: repeat;
+  font-family: 'Roboto', sans-serif;
+
+}
+h1 {
+  color: #93177d;
+  font-size: 80px;
+  font-weight: 900;
+  text-align: start;
+  background: url(./images/background.png);
+}
+h2 {
+  color: #02f91b;
+  font-size: 90px;
+  font-weight: lighter;
+  font-weight: 900;
+  background: url(./images/red_background.png);
+}
+a {
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  color: #ffd900;
+  font-weight: 600;
+  font-size: 80px;
+  background: url(./images/pink_background.png);
+  background-repeat: repeat;
+}
+a:hover {
+  color: black;
+}
+.container {
+  width: 700px;
+  margin: 40px auto;
+  background: url(./images/green_background2.png);
+  background-repeat: repeat;
+}
+.card {
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+  background: url(./images/blue_red_background.png);
+  background-repeat: repeat;
+}
